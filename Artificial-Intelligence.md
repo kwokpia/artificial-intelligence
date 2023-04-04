@@ -46,4 +46,4 @@ m = number of train examples
 
 x&#8317;&#x2071;&#8318;y&#8317;&#x2071;&#8318; = i&#8317;&#x1D57;&#x02B0;&#8318; training example 
 
-![image-20230404134734783](images/image-20230404134734783.png)
+### ![image-20230404134734783](images/image-20230404134734783.png)
