@@ -46,4 +46,8 @@ m = number of train examples
 
 x&#8317;&#x2071;&#8318;y&#8317;&#x2071;&#8318; = i&#8317;&#x1D57;&#x02B0;&#8318; training example 
 
+&ycirc; =  x -> f  -> y hat 通过算法推测出的y
+
 ### ![image-20230404134734783](images/image-20230404134734783.png)
+
+mean-squared-error-cost-function
